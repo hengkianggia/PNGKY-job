@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.1",
+    "@clerk/types": "^4.9.1",
     "@hookform/resolvers": "^3.3.3",
     "@prisma/client": "^5.7.1",
     "@radix-ui/react-label": "^2.0.2",
